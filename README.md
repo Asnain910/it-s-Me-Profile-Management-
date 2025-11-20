@@ -85,12 +85,5 @@ Login → Get token
 Setup → Update profile  
 My Profile → Fetch user with token  
 
-
 Axios automatically attaches the token through an interceptor.
 
-🧪 API Routes
-Method	  Route	              Description
-POST	/api/auth/register	Register user
-POST	/api/auth/login	    Login user + JWT
-GET	  /api/profile/me	    Get logged-in user
-PUT	  /api/profile	      Update user profile
