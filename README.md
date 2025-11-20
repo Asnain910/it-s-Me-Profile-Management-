@@ -53,8 +53,8 @@ JWT / bcryptjs
 
 Installation & Setup
 1️⃣ Clone the repo
-git clone https://github.com/YOUR-USERNAME/cerope-mern-app.git
-cd cerope-mern-app
+git clone https://github.com/YOUR-USERNAME/CEROPE
+cd CEROPE
 
 🖥 Backend Setup
 cd backend
