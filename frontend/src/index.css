@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small helper */
+.container-xl { max-width: 980px; margin: 0 auto; padding: 1rem; }
