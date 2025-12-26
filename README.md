@@ -1,4 +1,4 @@
-Cerope – MERN Stack Assignment
+it's Me (Profile Management) – MERN Stack project
 
 A fully responsive MERN Stack project implementing Login, Signup, Setup, and My Profile pages using React, Node.js, Express, MongoDB, Tailwind CSS, and JWT Authentication.
 This project fulfills all requirements for the Cerope MERN Developer Intern Assignment.
